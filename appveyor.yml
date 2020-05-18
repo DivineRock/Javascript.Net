@@ -13,3 +13,4 @@ test: off
 artifacts:
   - path: Win32
     name: JavascriptNet
+    type: zip
