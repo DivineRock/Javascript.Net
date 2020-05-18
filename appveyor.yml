@@ -8,6 +8,8 @@ platform:
 configuration:
   - Debug
 
+test: off
+
 artifacts:
   - path: bin
     name: JavascriptNet
