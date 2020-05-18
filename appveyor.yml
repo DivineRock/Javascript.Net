@@ -7,3 +7,7 @@ platform:
 
 configuration:
   - Debug
+
+artifacts:
+  - path: bin
+    name: JavascriptNet
