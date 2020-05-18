@@ -11,5 +11,5 @@ configuration:
 test: off
 
 artifacts:
-  - path: Debug
+  - path: '*.dll'
     name: JavascriptNet
