@@ -3,7 +3,7 @@ before_build:
   - nuget restore
 
 platform:
-  - x64
+  - x86
 
 configuration:
   - Debug
