@@ -6,7 +6,7 @@ platform:
   - x86
 
 configuration:
-  - Debug
+  - Release
 
 test: off
 
