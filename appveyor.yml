@@ -11,6 +11,6 @@ configuration:
 test: off
 
 artifacts:
-  - path: Win64
+  - path: '*'
     name: JavascriptNet
     type: zip
